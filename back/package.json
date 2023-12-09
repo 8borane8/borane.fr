@@ -1,0 +1,17 @@
+{
+    "name": "borane.fr-back",
+    "version": "1.0.0",
+    "author": "borane",
+
+    "scripts": {
+      	"dev": "nodemon src/index.js",
+      	"build": "node src/index.js"
+    },
+
+    "dependencies": {
+      	"@borane/expressapi": "^3.0.0"
+    },
+    "devDependencies": {
+      	"nodemon": "^3.0.1"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "borane.fr-front",
+    "version": "1.0.0",
+    "author": "borane",
+    "scripts": {
+        "dev": "node src/index.js --dev",
+        "build": "node src/index.js"
+    },
+    "dependencies": {
+        "@borane/slick": "^4.0.0"
+    }
+}

@@ -1,0 +1,5 @@
+node_modules/
+package-lock.json
+
+assets/avatars/*
+!assets/avatars/0.webp

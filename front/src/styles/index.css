@@ -1,0 +1,328 @@
+#app{
+    margin-top: 200px;
+}
+
+#app > h1{
+    font-size: 45px;
+    font-weight: 700;
+    text-align: center;
+
+    letter-spacing: 2px;
+    transition: all 0.4s linear;
+}
+
+#app > p{
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: 500;
+    max-width: calc(100% - 50px);
+    text-align: center;
+}
+
+#app > img{
+    margin-top: 50px;
+}
+
+#app > section:nth-child(4){
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 30px;
+
+    width: 100%;
+    height: 500px;
+    background-color: #2a1d2e;
+    margin: 350px 0px 550px 0px;
+
+    position: relative;
+}
+
+#app > section:nth-child(4) > h2{
+    font-size: 35px;
+    font-weight: 500;
+    color: white;
+    margin-top: 70px;
+    text-align: center;
+}
+
+#app > section:nth-child(4) > p{
+    font-size: 17px;
+    font-weight: 500;
+    color: white;
+    text-align: justify;
+    text-justify: inter-character;
+    text-align-last: center;
+
+    width: 800px;
+    max-width: calc(100% - 70px);
+    line-height: 25px;
+}
+
+#app > section:nth-child(4) > div{
+    position: absolute;
+    top: 380px;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 12px;
+}
+
+#app > section:nth-child(4) > div > div{
+    box-sizing: content-box;
+    width: 300px;
+    height: 500px;
+
+    background-color: white;
+    padding: 70px 50px 50px 50px;
+
+    border-width: 1px;
+    border-color: #eeeef0;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+#app > section:nth-child(4) > div > div:first-child{
+    border-radius: 12px 0px 0px 12px;
+    border-right-style: solid;
+}
+
+#app > section:nth-child(4) > div > div:last-child{
+    border-radius: 0px 12px 12px 0px;
+    border-left-style: solid;
+}
+
+#app > section:nth-child(4) > div > div > div{
+    width: 80px;
+    height: 80px;
+
+    background-color: #5f3b67;
+    border-radius: 50%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#app > section:nth-child(4) > div > div > div > svg{
+    width: 30px;
+    height: 30px;
+
+    fill: white;
+}
+
+#app > section:nth-child(4) > div > div > h3{
+    margin-top: 30px;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+#app > section:nth-child(4) > div > div > p:nth-child(3){
+    margin-top: 40px;
+    font-size: 15px;
+    font-weight: 500;
+    text-align: justify;
+    text-justify: inter-character;
+    text-align-last: center;
+    height: 130px;
+}
+
+#app > section:nth-child(4) > div > div > p:nth-child(4){
+    color: #ad23a2;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+#app > section:nth-child(4) > div > div > p:nth-child(5){
+    margin-top: 10px;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+#app > section:nth-child(5){
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    margin-bottom: 80px;
+}
+
+#app > section:nth-child(5) > h2{
+    font-size: 30px;
+    font-weight: 500;
+    text-align: center;
+    padding: 0px 10px;
+}
+
+#app > section:nth-child(5) > p{
+    margin-top: 10px;
+    font-size: 15px;
+    font-weight: 500;
+    text-align: center;
+}
+
+#app > section:nth-child(5) > a{
+    color: #67217c;
+    text-decoration: none;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+
+    border-style: solid;
+    border-color: #67217c;
+    border-width: 2px;
+
+    margin-top: 30px;
+    padding: 12px 20px;
+    border-radius: 60px;
+    transition: all 0.25s ease;
+}
+
+#app > section:nth-child(5) > a:hover{
+    color: white;
+    background-color: #67217c;
+}
+
+#app > section:nth-child(5) > a > svg{
+    width: 20px;
+    height: 20px;
+
+    fill: #67217c;
+    transition: all 0.25s ease;
+}
+
+#app > section:nth-child(5) > a:hover > svg{
+    fill: white;
+}
+
+#app > section:nth-child(6){
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    margin-top: 50px;
+    margin-bottom: 80px;
+    width: 100%;
+}
+
+#app > section:nth-child(6) > h2{
+    font-size: 30px;
+    font-weight: 500;
+    text-align: center;
+}
+
+#app > section:nth-child(6) > div{
+    margin-top: 20px;
+    width: 100%;
+    padding: 0px 100px;
+    max-width: 1300px;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 20px;
+
+    flex-wrap: wrap;
+}
+
+#app > section:nth-child(6) > div > a{
+    width: calc((100% - 20px * 2) / 3);
+    min-width: 200px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 8px;
+
+    color: #2a1d2e;
+    font-size: 17px;
+    font-weight: 700;
+    letter-spacing: -0.5px;
+
+    transition: all 0.2s linear;
+}
+
+#app > section:nth-child(6) > div > a > img{
+    width: 100%;
+    height: auto;
+
+    border-radius: 6px;
+    transition: all 0.2s linear;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+#app > section:nth-child(6) > div > a:hover > img{
+    transform: translateY(-5px);
+}
+
+
+
+@media screen and (max-width: 1250px) {
+    #app > section:nth-child(4){
+        height: 900px;
+        margin-bottom: 1600px;
+    }
+
+    #app > section:nth-child(4) > div{
+        flex-direction: column;
+        top: 500px;
+    }
+
+    #app > section:nth-child(4) > div > div:first-child{
+        border-radius: 12px 12px 0px 0px;
+        border-right-style: none;
+        border-bottom-style: solid;
+    }
+    
+    #app > section:nth-child(4) > div > div:last-child{
+        border-radius: 0px 0px 12px 12px;
+        border-left-style: none;
+        border-top-style: solid;
+    }
+}
+
+@media screen and (max-width: 850px) {
+    #app > section:nth-child(6) > div{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        row-gap: 30px;
+    }
+
+    #app > section:nth-child(6) > div > a{
+        max-width: 400px;
+        width: calc(100% - 20px *2);
+    }
+}
+
+@media screen and (max-width: 530px) {
+    #app > h1{
+        font-size: 30px;
+    }
+
+    #app > p{
+        font-size: 16px;
+    }
+
+    #app > section:nth-child(4) > h2{
+        font-size: 25px;
+    }
+
+    #app > section:nth-child(6) > div{
+        padding: 0px;
+    }
+}
