@@ -89,18 +89,14 @@ return {
                 <a href="https://zemcrypto.com" target="_blank">
                     <img src="/assets/previews/zemcrypto.png" alt="site" width="360" height="202" loading="lazy" />
                     Site d'offres en ligne permettant de gagner des crypto monnaies.
-                </a><br />
-                <a href="#offline" target="_blank">
-                    <img src="/assets/previews/bothlow.png" alt="site" width="360" height="202" loading="lazy" />
-                    Site E-Commerce de vente de chaussures de marque.
                 </a>
-                <a href="#offline" target="_blank">
-                    <img src="/assets/previews/wasupid.png" alt="site" width="360" height="202" loading="lazy" />
-                    Moteur de recherche avancé pour une base de données.
+                <a href="https://virtuhost.fr" target="_blank">
+                    <img src="/assets/previews/virtuhost.png" alt="site" width="360" height="202" loading="lazy" />
+                    Virtuhost est un hebergeur français basé à Paris.
                 </a>
-                <a href="#offline" target="_blank">
-                    <img src="/assets/previews/fandanime.png" alt="site" width="360" height="202" loading="lazy" />
-                    Site de streaming d'animes sans pubs en VOSTFR et VF.
+                <a href="https://theroycebrussels.com" target="_blank">
+                    <img src="/assets/previews/theroycebrussels.png" alt="site" width="360" height="202" loading="lazy" />
+                    Site d'offres en ligne permettant de gagner des crypto monnaies.
                 </a>
             </div>
         </section>
