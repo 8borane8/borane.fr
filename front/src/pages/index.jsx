@@ -96,7 +96,7 @@ return {
                 </a>
                 <a href="https://theroycebrussels.com" target="_blank">
                     <img src="/assets/previews/theroycebrussels.png" alt="site" width="360" height="202" loading="lazy" />
-                     vitrine d'une boite de nuit situé dans la capitale Belge.
+                     Vitrine d'une boîte de nuit située dans la capitale Belge.
                 </a>
             </div>
         </section>
