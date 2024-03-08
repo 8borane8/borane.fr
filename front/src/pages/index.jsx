@@ -96,7 +96,11 @@ return {
                 </a>
                 <a href="https://theroycebrussels.com" target="_blank">
                     <img src="/assets/previews/theroycebrussels.png" alt="site" width="360" height="202" loading="lazy" />
-                     Vitrine d'une boîte de nuit située dans la capitale Belge.
+                    Vitrine d'une boîte de nuit située dans la capitale Belge.
+                </a>
+                <a href="https://weeldermods.com" target="_blank">
+                    <img src="/assets/previews/weeldermods.png" alt="site" width="360" height="202" loading="lazy" />
+                    Boutique d'un développeur indépendant de mods FiveM.
                 </a>
             </div>
         </section>
