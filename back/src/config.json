@@ -2,7 +2,7 @@
     "port": 5050,
 
     "cors": [
-        "https://borane.fr",
+        "https://borane.eu",
         "http://127.0.0.1:5000"
     ]
 }

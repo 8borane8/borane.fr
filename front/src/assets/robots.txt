@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://borane.fr/assets/sitemap.xml
+Sitemap: https://borane.eu/assets/sitemap.xml

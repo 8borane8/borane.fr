@@ -11,12 +11,11 @@ return {
     head: <>
         <meta name="author" content="Borane" />
         <meta name="robots" content="index, follow" />
-        <meta name="keywords" content="Borane, Portfolio, Développeur, Full-Stack, Front-End, Back-End, Web, Informatique, HTML, CSS, JavaScript" />
 
         <meta property="og:type" content="website" />
-        <meta property="og:site_name" content="borane.fr" />
-        <meta property="og:url" content="https://borane.fr" />
-        <meta property="og:image" content="https://borane.fr/favicon.ico" />
+        <meta property="og:site_name" content="borane.eu" />
+        <meta property="og:url" content="https://borane.eu" />
+        <meta property="og:image" content="https://borane.eu/favicon.ico" />
         <meta name="theme-color" content="#991487" />        
     </>,
     body: <>

@@ -26,7 +26,7 @@ document.querySelector("form").addEventListener("submit", event => {
 
     contactRequestSent = true;
 
-    fetch("https://api.borane.fr/contact", {
+    fetch("https://api.borane.eu/contact", {
         method: "POST",
         headers: {
             "Content-Type": "application/json",

@@ -13,12 +13,12 @@ return {
     head: <>
         <meta property="og:title" content="Borane - Développeur Web Full Stack Français" />
 
-        <meta property="description" content="Portfolio de Borane, développeur web full-stack sénior. Il vous invite à venir découvrir son univers et à le contacter pour plus d'informations." />
-        <meta property="og:description" content="Portfolio de Borane, développeur web full-stack sénior. Il vous invite à venir découvrir son univers et à le contacter pour plus d'informations." />
+        <meta property="description" content="Portfolio de Borane, développeur web full-stack sénior." />
+        <meta property="og:description" content="Portfolio de Borane, développeur web full-stack sénior." />
     </>,
 
     body: <>
-<h1>Développeur Web Full Stack</h1>
+        <h1>Développeur Web Full Stack</h1>
         <p>Je conçois et développe des applications web, et j'aime ce que je fais.</p>
         <img src="/favicon.ico" alt="avatar" width="120" height="120" />
 

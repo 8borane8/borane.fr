@@ -15,8 +15,8 @@ return {
     head: <>
         <meta property="og:title" content="Borane - Me contacter" />
 
-        <meta property="description" content="Borane vous invite à le contacter via son portfolio pour démarrer votre projet." />
-        <meta property="og:description" content="Borane vous invite à le contacter via son portfolio pour démarrer votre projet." />
+        <meta property="description" content="Contactez Borane via un formulaire simple présent sur son portfolio." />
+        <meta property="og:description" content="Contactez Borane via un formulaire simple présent sur son portfolio." />
     </>,
 
     body: <>
